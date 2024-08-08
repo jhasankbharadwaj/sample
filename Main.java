@@ -1,7 +1,9 @@
 
 public class Main{
     public void fun1(){
-System.out.println();
+System.out.println("this is function one written in s1 branch  once again ");
+System.out.println("this is function one written in s1 branch  once again ");
+System.out.println("this is function one written in s1 branch  once again ");
 
     }
     public static void main(String args[]){
